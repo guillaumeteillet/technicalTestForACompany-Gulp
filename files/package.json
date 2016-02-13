@@ -1,0 +1,10 @@
+{
+    "name" : "Glup",
+    "version" : "0.1.0",
+    "author" : "Guillaume Teillet",
+    "private" : true,
+
+    "devDependencies" : {
+        "gulp-replace":     "latest"
+    }
+}
