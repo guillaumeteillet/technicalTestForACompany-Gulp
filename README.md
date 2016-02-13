@@ -11,7 +11,15 @@ You need npm : https://www.npmjs.com/package/download
 git clone https://github.com/guillaumeteillet/technicalTestForCheckoutComGulp.git gulp
 cd gulp/files
 npm install
-gulp DoWork
+./node_modules/gulp/bin/gulp.js DoWork
 ```
 
 Now, you can open index.html
+
+### Why ./node_modules/gulp/bin/gulp.js and not gulp ? 
+
+Because when you run npm install, you install gulp locally. If you want to install gulp globally, you need to run :
+
+```
+npm install -g gulp
+```
