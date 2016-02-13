@@ -5,6 +5,7 @@
     "private" : true,
 
     "devDependencies" : {
-        "gulp-replace":     "latest"
+      "gulp":             "latest",
+      "gulp-replace":     "latest"
     }
 }
