@@ -1,5 +1,5 @@
-# Technical Test For Checkout.com - Gulp
-Technical Test For Checkout.com - Gulp
+# Technical Test For a company - Gulp
+Technical Test For a company - Gulp
 
 ### Prerequisites
 
@@ -8,7 +8,7 @@ You need npm : https://www.npmjs.com/package/download
 ### How it works ?
 
 ```
-git clone https://github.com/guillaumeteillet/technicalTestForCheckoutComGulp.git gulp
+git clone https://github.com/guillaumeteillet/technicalTestForACompany-Gulp.git gulp
 cd gulp/files
 npm install
 ./node_modules/gulp/bin/gulp.js DoWork
